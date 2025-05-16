@@ -5,7 +5,7 @@ public class Lab024_printf {
 
         int a =10;
         System.out.println(a);
-        System.out.printf("Your Variable is %f",a);
+        //System.out.printf("Your Variable is %f",a);
 
         //%d -> int , byte, long, short,  - data type
         //%s -> string
