@@ -26,6 +26,15 @@ public class Lab034_Char_Literal {
         System.out.println("Sharik"+back_space+ "Sayyad");
         System.out.println("Sharik"+carriage_return+ "Sayyad");
 
+        char c10 = 'A';
+        // Ascii, (Limited Numbers) for A is 65 you can view the ascii code on web
+
+        char rupees = '₹';
+        System.out.println(rupees);
+
+        char laugh_smiley = '\u1f60';
+        System.out.println(laugh_smiley);
+
 
     }
 }

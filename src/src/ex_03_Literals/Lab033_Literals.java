@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class Lab0333_Literals {
+public class Lab033_Literals {
     public static void main(String[] args) {
 
         int age = 65; // Decimal systen - base will be 10
