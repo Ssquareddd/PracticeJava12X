@@ -8,7 +8,7 @@ public class Lab121_while_iq {
 
         // Factorial Program
 
-        // The Logic building formula i am telling here
+        // The Logic building formula I am telling here
         // Step 1 - you have to figure out what data type is needed for i/p and o/p
         // Step 2 - write a rough logic around this.
         // Step 3 - write a proper logic around this
