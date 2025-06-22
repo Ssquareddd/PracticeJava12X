@@ -1,6 +1,6 @@
 package ex_26_generics;
 
-public class Lab238_genericclass {
+public class Lab_genericclass {
 
     GenericClass g1 = new GenericClass(10);
     GenericClass g2 = new GenericClass("Sharik");
