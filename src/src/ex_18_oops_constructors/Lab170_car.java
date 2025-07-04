@@ -17,7 +17,7 @@ public class Lab170_car {
         System.out.println(nano.year);
         System.out.println(nano.model);
 
-        LoginPage 1 = new LoginPage();
+        //LoginPage 1 = new LoginPage();
 
     }
 }

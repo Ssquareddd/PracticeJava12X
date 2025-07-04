@@ -13,7 +13,7 @@ public class Lab230_list {
         list.add();
         list.add();
         list.add();
-        list.add();8
+        list.add();
 
 
 
