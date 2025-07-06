@@ -1,4 +1,4 @@
-package ex_26_Collection_Framework.MAP;
+package ex_27_Collection_Framework.list;
 
 import java.util.ArrayList;
 import java.util.HashMap;
